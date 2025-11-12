@@ -1,0 +1,25 @@
+{
+  "sectionTitle": "Education",
+  "education": [
+    {
+      "degree": "Master of Science in Computer Science",
+      "institution": "University of Texas at Arlington, TX",
+      "period": "Aug 2023 - May 2025",
+      "description": "Master of Science in Computer Science",
+      "achievements": [],
+      "color": "#667eea",
+      "icon": "fas fa-graduation-cap"
+    },
+    {
+      "degree": "Bachelor of Engineering in Computer Science",
+      "institution": "Visvesvaraya Technological University, India",
+      "period": "Aug 2019 - July 2023",
+      "description": "Bachelor of Engineering in Computer Science",
+      "achievements": [],
+      "color": "#764ba2",
+      "icon": "fas fa-graduation-cap"
+    }
+  ],
+  "certificationsTitle": "Certifications & Awards",
+  "certifications": []
+}

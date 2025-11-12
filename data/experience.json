@@ -1,0 +1,41 @@
+{
+  "sectionTitle": "Work Experience",
+  "experiences": [
+    {
+      "title": "Research Assistant",
+      "company": "University of Texas at Arlington",
+      "location": "",
+      "period": "May 2025 - Present",
+      "type": "Full-time",
+      "color": "#667eea",
+      "icon": "fas fa-briefcase",
+      "description": "Migrated the site from Jekyll to Next.js 14 (TypeScript, Tailwind CSS),built a responsive UI and converted\nYAML content to typed JSON.\nImplemented Team/News/Publications as structured, filterable sections with dynamic lists.\nSet up GitHub to Vercel CI/CD,enforced ESLint and enabled Vercel Analytics.",
+      "responsibilities": [],
+      "technologies": []
+    },
+    {
+      "title": "Full Stack Developer",
+      "company": "Gangavathiexports,Remote",
+      "location": "",
+      "period": "Jan 2024 - June 2024",
+      "type": "Full-time",
+      "color": "#764ba2",
+      "icon": "fas fa-briefcase",
+      "description": "Automated Magento Open Source installation on Ubuntu using Ansible and configured SMTP for custom\ndomain emails, reducing deployment time by 75%.\nIntegrated a mobile-friendly theme, updated user content, and helped customers create configurable\nproduct listings improving inventory management efficiency by 40%.\nIntegrated a secure payment gateway and SEO best practices to improve search engine visibility and\ndrive organic traffic.",
+      "responsibilities": [],
+      "technologies": []
+    },
+    {
+      "title": "Software Developer Intern",
+      "company": "Maruti Constructions, India",
+      "location": "",
+      "period": "Sep 2021 - Aug 2022",
+      "type": "Full-time",
+      "color": "#f093fb",
+      "icon": "fas fa-briefcase",
+      "description": "Developed and deployed a machine learning system using Linear Regression algorithms to analyze\nhistorical real estate data, achieving 92% prediction accuracy and reducing estimation time by 75%.\nEngineered robust data preprocessing pipelines with outlier detection and feature engineering,\nimproving model performance by 38%.\nArchitected a scalable Flask RESTful API with efficient endpoints and caching mechanisms for real-time\nprice predictions during peak traffic periods.",
+      "responsibilities": [],
+      "technologies": []
+    }
+  ]
+}

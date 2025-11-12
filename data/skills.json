@@ -1,0 +1,39 @@
+{
+  "sectionTitle": "Skills & Technologies",
+  "categories": [
+    {
+      "category": "Technical Skills",
+      "icon": "fas fa-code",
+      "color": "#667eea",
+      "skills": [
+        "Python",
+        "Java",
+        "C++",
+        "R",
+        "Ruby",
+        "HTML",
+        "CSS",
+        "Next.js",
+        "Clerk",
+        "Avian"
+      ]
+    },
+    {
+      "category": "Tools & Frameworks",
+      "icon": "fas fa-tools",
+      "color": "#764ba2",
+      "skills": [
+        "Prisma",
+        "Stripe",
+        "Cypress",
+        "Vercel",
+        "React Native",
+        "Firebase",
+        "TensorFlow",
+        "Keras",
+        "NumPy",
+        "Pandas"
+      ]
+    }
+  ]
+}
