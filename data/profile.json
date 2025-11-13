@@ -1,19 +1,19 @@
 {
   "profile": {
-    "name": "John Doe",
-    "title": "Full Stack Developer",
+    "name": "Sampada Santosh Pavate",
+    "title": "Professional Developer",
     "bio": "Passionate developer creating elegant solutions to complex problems."
   },
   "contact": {
-    "email": "john.doe@email.com",
-    "phone": "+1 (555) 123-4567",
-    "githubUsername": "johndoe",
-    "linkedin": "https://linkedin.com/in/johndoe",
-    "twitter": "https://twitter.com/johndoe"
+    "email": "sampadapawate@gmail.com",
+    "phone": "+16824130496",
+    "githubUsername": "SampadaPawate",
+    "linkedin": "https://www.linkedin.com/in/sampadapavate",
+    "twitter": ""
   },
   "siteConfig": {
-    "domain": "",
-    "title": "John Doe - Portfolio",
-    "description": "Full Stack Developer Portfolio"
+    "domain": "https://sampadapawate.github.io",
+    "title": "Sampada Santosh Pavate - Portfolio",
+    "description": "Professional Developer Portfolio"
   }
 }

@@ -1,7 +1,7 @@
 {
-  "name": "adarsh-umesh-portfolio",
+  "name": "sampada-pawate-portfolio",
   "version": "1.0.0",
-  "description": "Professional portfolio website for Adarsh Umesh - Product Manager & Full-Stack Engineer",
+  "description": "Professional portfolio website for Sampada Santosh Pavate - Professional Developer",
   "main": "index.html",
   "scripts": {
     "start": "python -m http.server 8000",
@@ -10,21 +10,21 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/adarshumesh5/adarsh-umesh-portfolio.git"
+    "url": "https://github.com/SampadaPawate/SampadaPawate.github.io.git"
   },
   "keywords": [
     "portfolio",
-    "product-manager",
+    "developer",
     "full-stack",
     "engineer",
     "web-development",
     "resume",
     "personal-website"
   ],
-  "author": "Adarsh Umesh <connect2adarshum@gmail.com>",
+  "author": "Sampada Santosh Pavate <sampadapawate@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/adarshumesh5/adarsh-umesh-portfolio/issues"
+    "url": "https://github.com/SampadaPawate/SampadaPawate.github.io/issues"
   },
-  "homepage": "https://github.com/adarshumesh5/adarsh-umesh-portfolio#readme"
+  "homepage": "https://sampadapawate.github.io"
 }

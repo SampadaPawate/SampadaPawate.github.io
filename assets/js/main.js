@@ -37,7 +37,7 @@ async function loadNavigation() {
             navMenu.innerHTML = '';
             navData.menuItems.forEach(item => {
                 const li = document.createElement('li');
-                li.innerHTML = `<a href="${item.href}" class="nav-link">${item.label}</a>`;
+                li.innerHTML = `<a href="${item.href}" class="nav-link">${item.text}</a>`;
                 navMenu.appendChild(li);
             });
 
