@@ -1,7 +1,7 @@
 # Professional Portfolio Template
 
 A modern, responsive portfolio website template that's easy to customize and deploy. Built with vanilla HTML, CSS, and JavaScript - no frameworks required!
-
+ 
 ## ✨ Features
 
 - 🎨 **Fully Customizable** - Easy JSON-based configuration
