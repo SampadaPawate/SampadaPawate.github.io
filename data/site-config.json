@@ -1,13 +1,18 @@
 {
-  "title": "Sampada Santosh Pavate - Professional Portfolio",
-  "description": "Professional portfolio showcasing my work and experience",
-  "author": "Sampada Santosh Pavate",
-  "keywords": "Python, Java, C++, R, Ruby, HTML, CSS, Next.js, Clerk, Avian, Prisma, Stripe, Cypress, Vercel, React Native, Firebase, TensorFlow, Keras, NumPy, Pandas",
-  "ogImage": "/assets/images/og-image.jpg",
-  "favicon": "/assets/images/favicon.ico",
-  "theme": {
-    "primaryColor": "#3b82f6",
-    "secondaryColor": "#8b5cf6",
-    "accentColor": "#ec4899"
+  "_instructions": "Site-wide configuration and meta tags. Update these values for SEO and branding.",
+  "meta": {
+    "title": "Sampada Santosh Pavate - Professional Portfolio",
+    "description": "Professional portfolio showcasing my work and experience",
+    "author": "Sampada Santosh Pavate",
+    "keywords": "Python, Java, C++, R, Ruby, HTML, CSS, Next.js, Clerk, Avian, Prisma, Stripe, Cypress, Vercel, React Native, Firebase, TensorFlow, Keras, NumPy, Pandas"
+  },
+  "branding": {
+    "name": "Sampada Santosh Pavate",
+    "tagline": "Professional Developer"
+  },
+  "settings": {
+    "year": 2025,
+    "enableAnimations": true,
+    "navbarScrollEffect": true
   }
 }

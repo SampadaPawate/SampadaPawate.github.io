@@ -1,38 +1,37 @@
 {
+  "_instructions": "Navigation menu configuration. Add/remove/reorder menu items as needed.",
   "brand": {
     "name": "Sampada Santosh Pavate",
     "href": "#home"
   },
   "menuItems": [
     {
-      "href": "#home",
-      "icon": "fas fa-home",
-      "text": "Home"
+      "label": "Home",
+      "href": "#home"
     },
     {
-      "href": "#about",
-      "icon": "fas fa-user",
-      "text": "About"
+      "label": "About",
+      "href": "#about"
     },
     {
-      "href": "#experience",
-      "icon": "fas fa-briefcase",
-      "text": "Experience"
+      "label": "Experience",
+      "href": "#experience"
     },
     {
-      "href": "#projects",
-      "icon": "fas fa-project-diagram",
-      "text": "Projects"
+      "label": "Skills",
+      "href": "#skills"
     },
     {
-      "href": "#skills",
-      "icon": "fas fa-code",
-      "text": "Skills"
+      "label": "Projects",
+      "href": "#projects"
     },
     {
-      "href": "#contact",
-      "icon": "fas fa-envelope",
-      "text": "Contact"
+      "label": "Education",
+      "href": "#education"
+    },
+    {
+      "label": "Contact",
+      "href": "#contact"
     }
   ]
 }

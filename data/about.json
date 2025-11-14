@@ -1,31 +1,21 @@
 {
+  "_instructions": "About section content - tell your professional story and showcase key metrics.",
   "sectionTitle": "About Me",
   "paragraphs": [
-    "I am a passionate developer with a strong background in building innovative solutions."
+    "I am a passionate developer with a strong background in building innovative solutions. With 1+ years of experience, I specialize in creating elegant and efficient applications using modern technologies."
   ],
   "statistics": [
     {
-      "icon": "fas fa-briefcase",
-      "color": "#667eea",
-      "value": "3+",
+      "value": "1+",
       "label": "Years Experience"
     },
     {
-      "icon": "fas fa-project-diagram",
-      "color": "#764ba2",
       "value": "15+",
       "label": "Projects"
     },
     {
-      "icon": "fas fa-code",
-      "color": "#f093fb",
       "value": "20+",
       "label": "Technologies"
     }
-  ],
-  "downloadCV": {
-    "href": "/resume.pdf",
-    "icon": "fas fa-download",
-    "text": "Download Resume"
-  }
+  ]
 }

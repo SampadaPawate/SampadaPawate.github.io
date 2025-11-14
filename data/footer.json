@@ -1,23 +1,14 @@
 {
-  "tagline": "Building the future, one line of code at a time.",
-  "socialLinks": [
-    {
-      "url": "https://www.linkedin.com/in/sampadapavate",
-      "platform": "LinkedIn",
-      "icon": "fab fa-linkedin"
-    }
-  ],
+  "_instructions": "Footer content - copyright and social links.",
   "copyright": {
-    "text": "© 2025 Sampada Santosh Pavate. All rights reserved."
+    "text": "All rights reserved.",
+    "name": "Sampada Santosh Pavate",
+    "year": 2025
   },
   "links": [
     {
-      "href": "#",
-      "text": "Privacy Policy"
-    },
-    {
-      "href": "#",
-      "text": "Terms of Service"
+      "text": "LinkedIn",
+      "url": "https://www.linkedin.com/in/sampadapavate"
     }
   ]
 }

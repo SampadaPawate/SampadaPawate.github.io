@@ -1,25 +1,20 @@
 {
+  "_instructions": "Add your education and certifications here.",
   "sectionTitle": "Education",
+  "certificationsTitle": "Certifications & Awards",
   "education": [
     {
       "degree": "Master of Science in Computer Science",
-      "institution": "University of Texas at Arlington, TX",
+      "school": "University of Texas at Arlington, TX",
       "period": "Aug 2023 - May 2025",
-      "description": "Master of Science in Computer Science",
-      "achievements": [],
-      "color": "#667eea",
-      "icon": "fas fa-graduation-cap"
+      "details": ""
     },
     {
       "degree": "Bachelor of Engineering in Computer Science",
-      "institution": "Visvesvaraya Technological University, India",
+      "school": "Visvesvaraya Technological University, India",
       "period": "Aug 2019 - July 2023",
-      "description": "Bachelor of Engineering in Computer Science",
-      "achievements": [],
-      "color": "#764ba2",
-      "icon": "fas fa-graduation-cap"
+      "details": ""
     }
   ],
-  "certificationsTitle": "Certifications & Awards",
   "certifications": []
 }

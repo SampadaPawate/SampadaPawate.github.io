@@ -1,80 +1,62 @@
 {
+  "_instructions": "Contact section - your contact information and form configuration.",
   "sectionTitle": "Get In Touch",
-  "subtitle": "Feel free to reach out for collaborations or just a friendly chat!",
   "contactInfo": [
     {
       "type": "email",
+      "icon": "fas fa-envelope",
       "label": "Email",
       "value": "sampadapawate@gmail.com",
-      "href": "mailto:sampadapawate@gmail.com",
-      "icon": "fas fa-envelope",
-      "color": "#667eea"
+      "href": "mailto:sampadapawate@gmail.com"
     },
     {
       "type": "phone",
-      "label": "Phone",
-      "value": "+16824130496",
-      "href": "tel:+16824130496",
       "icon": "fas fa-phone",
-      "color": "#764ba2"
+      "label": "Phone",
+      "value": "+1 (682) 413-0496",
+      "href": "tel:+16824130496"
     },
     {
       "type": "location",
+      "icon": "fas fa-map-marker-alt",
       "label": "Location",
       "value": "Arlington, TX",
-      "href": "#",
-      "icon": "fas fa-map-marker-alt",
-      "color": "#f093fb"
+      "href": null
+    },
+    {
+      "type": "linkedin",
+      "icon": "fab fa-linkedin",
+      "label": "LinkedIn",
+      "value": "in/sampadapavate",
+      "href": "https://www.linkedin.com/in/sampadapavate"
     }
   ],
   "form": {
-    "action": "https://formspree.io/f/your-form-id",
-    "method": "POST",
     "fields": [
       {
+        "id": "name",
         "type": "text",
-        "name": "name",
-        "label": "Name",
         "placeholder": "Your Name",
-        "required": true,
-        "icon": "fas fa-user"
+        "required": true
       },
       {
+        "id": "email",
         "type": "email",
-        "name": "email",
-        "label": "Email",
-        "placeholder": "your@email.com",
-        "required": true,
-        "icon": "fas fa-envelope"
+        "placeholder": "Your Email",
+        "required": true
       },
       {
-        "type": "text",
-        "name": "subject",
-        "label": "Subject",
-        "placeholder": "Subject",
-        "required": true,
-        "icon": "fas fa-tag"
-      },
-      {
+        "id": "message",
         "type": "textarea",
-        "name": "message",
-        "label": "Message",
-        "placeholder": "Your message...",
-        "required": true,
-        "icon": "fas fa-comment",
-        "rows": 5
+        "placeholder": "Your Message",
+        "rows": 5,
+        "required": true
       }
     ],
-    "submitIcon": "fas fa-paper-plane",
-    "submitText": "Send Message",
-    "successMessage": "Thank you! Your message has been sent successfully.",
-    "errorMessage": "Oops! Something went wrong. Please try again."
-  },
-  "socialMedia": [
-    {
-      "url": "https://www.linkedin.com/in/sampadapavate",
-      "platform": "LinkedIn",
-      "icon": "fab fa-linkedin"
-    }
-  ]
+    "submitButton": {
+      "text": "Send Message",
+      "type": "primary"
+    },
+    "successMessage": "Thank you for your message! This is a demo form. In production, this would send your message."
+  }
 }

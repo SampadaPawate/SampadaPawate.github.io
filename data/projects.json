@@ -1,11 +1,10 @@
 {
+  "_instructions": "Add your projects here. Each project should showcase your work.",
   "sectionTitle": "Featured Projects",
   "projects": [
     {
       "title": "Learnify",
-      "description": "Built a comprehensive learning management platform by implementing content delivery, progress\ntracking, and e-commerce capabilities, serving the diverse educational needs of the users.\nDeveloped responsive and intuitive user interface by leveraging TailwindCSS and Shaden component\nlibrary, increasing user engagement by 30% and improving session duration by 25%.",
-      "color": "#667eea",
-      "icon": "fas fa-project-diagram",
+      "description": "Built a comprehensive learning management platform by implementing content delivery, progress tracking, and e-commerce capabilities, serving the diverse educational needs of the users. Developed responsive and intuitive user interface by leveraging TailwindCSS and Shaden component library, increasing user engagement by 30% and improving session duration by 25%.",
       "technologies": [
         "Next.js",
         "Clerk",
@@ -15,330 +14,69 @@
         "Cypress",
         "Vercel"
       ],
-      "keyFeatures": [],
-      "projectType": "",
-      "highlight": "",
-      "links": {
-        "github": "",
-        "demo": ""
-      },
-      "stats": {}
+      "icon": "fas fa-graduation-cap",
+      "github": "https://github.com/SampadaPawate/Learnify",
+      "demo": ""
     },
     {
       "title": "Maverick Market - Android E-Commerce Application",
-      "description": "Engineered a real-time Android e-commerce app with wishlist management, dynamic pricing, & image\noptimization.\nImproved app responsiveness by 50% through optimized database queries.",
-      "color": "#764ba2",
-      "icon": "fas fa-project-diagram",
+      "description": "Engineered a real-time Android e-commerce app with wishlist management, dynamic pricing, & image optimization. Improved app responsiveness by 50% through optimized database queries.",
       "technologies": [
         "React Native",
         "Firebase"
       ],
-      "keyFeatures": [],
-      "projectType": "",
-      "highlight": "",
-      "links": {
-        "github": "",
-        "demo": ""
-      },
-      "stats": {}
+      "icon": "fas fa-mobile-alt",
+      "github": "https://github.com/SampadaPawate/MavMarket",
+      "demo": ""
     },
     {
       "title": "Deep Learning Based COVID-19 Detection",
-      "description": "Architected a CNN model for medical image analysis by applying transfer learning and custom layer\nconfigurations, achieving 94% accuracy in COVID-19 detection from X-ray images, outperforming\ntraditional methods by 15%.\nEnhanced model training through advanced data preprocessing by implementing image normalization\nand augmentation techniques, increasing the training dataset by 300% while improving generalization by\n10%.",
-      "color": "#f093fb",
-      "icon": "fas fa-project-diagram",
+      "description": "Architected a CNN model for medical image analysis by applying transfer learning and custom layer configurations, achieving 94% accuracy in COVID-19 detection from X-ray images, outperforming traditional methods by 15%. Enhanced model training through advanced data preprocessing by implementing image normalization and augmentation techniques, increasing the training dataset by 300% while improving generalization by 10%.",
       "technologies": [
         "TensorFlow",
         "Keras",
         "NumPy",
         "Pandas"
       ],
-      "keyFeatures": [],
-      "projectType": "",
-      "highlight": "",
-      "links": {
-        "github": "",
-        "demo": ""
-      },
-      "stats": {}
+      "icon": "fas fa-heartbeat",
+      "github": "",
+      "demo": ""
     },
     {
-      "title": "bank-app-spring-cloud-microservices",
-      "description": "Interactive application built for continuous learning",
-      "color": "#4facfe",
-      "icon": "fab fa-github",
-      "technologies": [
-        "Java"
-      ],
-      "keyFeatures": [],
-      "projectType": "",
-      "highlight": "",
-      "links": {
-        "github": "https://github.com/SampadaPawate/bank-app-spring-cloud-microservices",
-        "demo": ""
-      },
-      "stats": {
-        "stars": 0,
-        "forks": 0,
-        "language": "Java"
-      }
-    },
-    {
-      "title": "python-for-automating-information-security",
-      "description": "Comprehensive project exploring software design patterns",
-      "color": "#667eea",
-      "icon": "fab fa-github",
-      "technologies": [
-        "Python"
-      ],
-      "keyFeatures": [],
-      "projectType": "",
-      "highlight": "",
-      "links": {
-        "github": "https://github.com/SampadaPawate/python-for-automating-information-security",
-        "demo": ""
-      },
-      "stats": {
-        "stars": 0,
-        "forks": 0,
-        "language": "Python"
-      }
-    },
-    {
-      "title": "brain-mapping-eeg-classification",
-      "description": "Educational project for mastering software architecture",
-      "color": "#764ba2",
-      "icon": "fab fa-github",
-      "technologies": [
-        "Python",
-        "JavaScript",
-        "CSS",
-        "HTML",
-        "Shell",
-        "Dockerfile"
-      ],
-      "keyFeatures": [],
-      "projectType": "",
-      "highlight": "",
-      "links": {
-        "github": "https://github.com/SampadaPawate/brain-mapping-eeg-classification",
-        "demo": ""
-      },
-      "stats": {
-        "stars": 0,
-        "forks": 0,
-        "language": "Python"
-      }
-    },
-    {
-      "title": "Lexsy_Document_Filler",
-      "description": "GitHub repository: Lexsy_Document_Filler",
-      "color": "#f093fb",
-      "icon": "fab fa-github",
+      "title": "Lexsy Document Filler",
+      "description": "Interactive document filling application for legal documents.",
       "technologies": [
         "TypeScript",
         "JavaScript",
         "CSS"
       ],
-      "keyFeatures": [],
-      "projectType": "",
-      "highlight": "",
-      "links": {
-        "github": "https://github.com/SampadaPawate/Lexsy_Document_Filler",
-        "demo": "https://lexsy-document-filler.vercel.app"
-      },
-      "stats": {
-        "stars": 0,
-        "forks": 0,
-        "language": "TypeScript"
-      }
+      "icon": "fas fa-file-alt",
+      "github": "https://github.com/SampadaPawate/Lexsy_Document_Filler",
+      "demo": "https://lexsy-document-filler.vercel.app"
     },
     {
-      "title": "Portfolio",
-      "description": "GitHub repository: Portfolio",
-      "color": "#4facfe",
-      "icon": "fab fa-github",
+      "title": "Bank App Spring Cloud Microservices",
+      "description": "Microservices architecture for banking application using Spring Cloud.",
       "technologies": [
-        "TypeScript",
-        "CSS",
-        "JavaScript",
-        "HTML"
+        "Java",
+        "Spring Cloud"
       ],
-      "keyFeatures": [],
-      "projectType": "",
-      "highlight": "",
-      "links": {
-        "github": "https://github.com/SampadaPawate/Portfolio",
-        "demo": ""
-      },
-      "stats": {
-        "stars": 0,
-        "forks": 0,
-        "language": "TypeScript"
-      }
+      "icon": "fas fa-university",
+      "github": "https://github.com/SampadaPawate/bank-app-spring-cloud-microservices",
+      "demo": ""
     },
     {
-      "title": "creative-anthro",
-      "description": "GitHub repository: creative-anthro",
-      "color": "#667eea",
-      "icon": "fab fa-github",
+      "title": "Brain Mapping EEG Classification",
+      "description": "Machine learning project for EEG signal classification and brain mapping analysis.",
       "technologies": [
-        "TypeScript",
-        "CSS",
-        "JavaScript",
-        "HTML"
-      ],
-      "keyFeatures": [],
-      "projectType": "",
-      "highlight": "",
-      "links": {
-        "github": "https://github.com/SampadaPawate/creative-anthro",
-        "demo": ""
-      },
-      "stats": {
-        "stars": 0,
-        "forks": 0,
-        "language": "TypeScript"
-      }
-    },
-    {
-      "title": "LeetCode",
-      "description": "GitHub repository: LeetCode",
-      "color": "#764ba2",
-      "icon": "fab fa-github",
-      "technologies": [
-        "Python"
-      ],
-      "keyFeatures": [],
-      "projectType": "",
-      "highlight": "",
-      "links": {
-        "github": "https://github.com/SampadaPawate/LeetCode",
-        "demo": ""
-      },
-      "stats": {
-        "stars": 0,
-        "forks": 0,
-        "language": "Python"
-      }
-    },
-    {
-      "title": "security-task-mangement",
-      "description": "GitHub repository: security-task-mangement",
-      "color": "#f093fb",
-      "icon": "fab fa-github",
-      "technologies": [
-        "TypeScript",
-        "HTML",
-        "CSS",
-        "PowerShell",
-        "JavaScript",
-        "Batchfile"
-      ],
-      "keyFeatures": [],
-      "projectType": "",
-      "highlight": "",
-      "links": {
-        "github": "https://github.com/SampadaPawate/security-task-mangement",
-        "demo": ""
-      },
-      "stats": {
-        "stars": 0,
-        "forks": 0,
-        "language": "TypeScript"
-      }
-    },
-    {
-      "title": "jeff-lei-lab-website",
-      "description": "GitHub repository: jeff-lei-lab-website",
-      "color": "#4facfe",
-      "icon": "fab fa-github",
-      "technologies": [
-        "TypeScript",
         "Python",
-        "CSS",
-        "JavaScript"
-      ],
-      "keyFeatures": [],
-      "projectType": "",
-      "highlight": "",
-      "links": {
-        "github": "https://github.com/SampadaPawate/jeff-lei-lab-website",
-        "demo": ""
-      },
-      "stats": {
-        "stars": 0,
-        "forks": 0,
-        "language": "TypeScript"
-      }
-    },
-    {
-      "title": "Voicelytics",
-      "description": "GitHub repository: Voicelytics",
-      "color": "#667eea",
-      "icon": "fab fa-github",
-      "technologies": [
-        "TypeScript",
-        "CSS",
-        "JavaScript"
-      ],
-      "keyFeatures": [],
-      "projectType": "",
-      "highlight": "",
-      "links": {
-        "github": "https://github.com/SampadaPawate/Voicelytics",
-        "demo": ""
-      },
-      "stats": {
-        "stars": 0,
-        "forks": 0,
-        "language": "TypeScript"
-      }
-    },
-    {
-      "title": "Learnify",
-      "description": "GitHub repository: Learnify",
-      "color": "#764ba2",
-      "icon": "fab fa-github",
-      "technologies": [
-        "TypeScript",
-        "HTML",
         "JavaScript",
-        "CSS"
+        "CSS",
+        "HTML"
       ],
-      "keyFeatures": [],
-      "projectType": "",
-      "highlight": "",
-      "links": {
-        "github": "https://github.com/SampadaPawate/Learnify",
-        "demo": ""
-      },
-      "stats": {
-        "stars": 0,
-        "forks": 0,
-        "language": "TypeScript"
-      }
-    },
-    {
-      "title": "MavMarket",
-      "description": "GitHub repository: MavMarket",
-      "color": "#f093fb",
-      "icon": "fab fa-github",
-      "technologies": [
-        "Kotlin"
-      ],
-      "keyFeatures": [],
-      "projectType": "",
-      "highlight": "",
-      "links": {
-        "github": "https://github.com/SampadaPawate/MavMarket",
-        "demo": ""
-      },
-      "stats": {
-        "stars": 0,
-        "forks": 0,
-        "language": "Kotlin"
-      }
+      "icon": "fas fa-brain",
+      "github": "https://github.com/SampadaPawate/brain-mapping-eeg-classification",
+      "demo": ""
     }
   ]
 }
