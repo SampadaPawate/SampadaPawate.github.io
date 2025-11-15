@@ -19,6 +19,19 @@
       "demo": ""
     },
     {
+      "title": "Dr. Jeff Lei's Lab Website",
+      "description": "Professional academic laboratory website built with Next.js, featuring automated scholarly publication tracking, team management, and research showcase. Integrated with Google Scholar API for real-time publication updates and Slack for team communications.",
+      "technologies": [
+        "Next.js",
+        "TypeScript",
+        "Python",
+        "CSS"
+      ],
+      "icon": "fas fa-flask",
+      "github": "https://github.com/sercatuta-lei/sercatuta-lei.github.io",
+      "demo": "https://sercatuta-lei.github.io/"
+    },
+    {
       "title": "Maverick Market - Android E-Commerce Application",
       "description": "Engineered a real-time Android e-commerce app with wishlist management, dynamic pricing, & image optimization. Improved app responsiveness by 50% through optimized database queries.",
       "technologies": [
@@ -77,19 +90,6 @@
       "icon": "fas fa-brain",
       "github": "https://github.com/SampadaPawate/brain-mapping-eeg-classification",
       "demo": ""
-    },
-    {
-      "title": "Dr. Jeff Lei's Lab Website",
-      "description": "Professional academic laboratory website built with Next.js, featuring automated scholarly publication tracking, team management, and research showcase. Integrated with Google Scholar API for real-time publication updates and Slack for team communications.",
-      "technologies": [
-        "Next.js",
-        "TypeScript",
-        "Python",
-        "CSS"
-      ],
-      "icon": "fas fa-flask",
-      "github": "https://github.com/sercatuta-lei/sercatuta-lei.github.io",
-      "demo": "https://sercatuta-lei.github.io/"
     }
   ]
 }
